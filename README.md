@@ -1,0 +1,2 @@
+This project was made as an extention of my major studio 2 project in which I recreated my grandmother's room in blender. This page showcases several of the objects from her room; some being modeled, and others being 3D scans. The models are displayed using three.js.
+I also decided to use Bootsrap to make the css styling easier on me, but it unfortunately overcomplicated things as the bootstrap grid system did not work for all of my needs. Since I had alreadsy implemented the buttons using bootstrap, the rest of the styling around it could be much better.
